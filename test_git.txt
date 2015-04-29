@@ -1,5 +1,6 @@
 test
 test_dif
 test_branch
+test_merge_mas
 
 
